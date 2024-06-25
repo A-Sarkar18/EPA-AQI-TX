@@ -1,4 +1,4 @@
-# EPA-AQI-TX
+# Vizualizing Texas Air Quality over the Decade
 
 ## Project Description
 I was interested in evaulating average annual Air Quality in Texas throughout the years.
