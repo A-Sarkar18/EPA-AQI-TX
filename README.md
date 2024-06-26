@@ -12,3 +12,5 @@ U.S. Environmental Protection Agency. "Air Data Home." U.S. Environmental Protec
 Simple Widget Introduction. "Simple Widget Introduction - Jupyter Widgets 8.1.2 Documentation", ipywidgets, ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html. Accessed 17 May 2024.
 
 “Air Quality Index.” American Lung Association, www.lung.org/clean-air/outdoors/air-quality-index. Accessed 17 May 2024.
+
+“Process to Determine Whether Areas Meet the NAAQS (Designations Process).” EPA, Environmental Protection Agency, www.epa.gov/criteria-air-pollutants/process-determine-whether-areas-meet-naaqs-designations-process. Accessed 25 June 2024. 
