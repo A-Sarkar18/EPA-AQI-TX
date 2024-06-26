@@ -1,10 +1,12 @@
 # Vizualizing Texas Air Quality over the Decade
 
 ## Project Description
-I was interested in evaulating average annual Air Quality in Texas throughout the years by using air monitor data.
+I was interested in evaulating average annual Air Quality in Texas throughout the years by using air monitor data. I wanted to make a user-friendly notebook which will allow users to customize which years or counties they would like to see data for.
 
 ## Background
 The U.S. EPA calculates the Air Quality Index for five major air pollutants know as the "Criteria Pollutants" regulated by the 1990 Clean Air Act (CAA): ground-level ozone, particle pollution (also known as particulate matter), carbon monoxide, sulfur dioxide and nitrogen dioxide. The U.S. EPA has established National Ambient Air Quality Standards (NAAQS) to protect public health that indicates acceptable levels for each of the pollutants. The Texas Comission on Environmental Quality (TCEQ) monitors ground-level ozone, particulate matter, carbon monoxide and sulfur dioxide using the AQI. The State of Texas decides where monitors are placed based on areas of relatively high population and/or areas believed to have relatively higher pollutant concentrations. The state then submits recommendations to the EPA as to whether or not an area is attaining the standard based on monitor readings.
+
+## Plots
 
 ## Works Cited
 U.S. Environmental Protection Agency. "Air Data Home." U.S. Environmental Protection Agency, https://www.epa.gov/outdoor-air-quality-data. Accessed 17 May 2024.
