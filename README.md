@@ -9,10 +9,10 @@ The U.S. EPA calculates the Air Quality Index for five major air pollutants know
 ## Plots
 
 ### 2014
-![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/Texas%20Solar%20Facility%20Total%20Rated%20Capacity.png)
+![Alt Text](https://github.com/A-Sarkar18/EPA-AQI-TX/blob/main/figures/2014.png)
 
 ### 2023
-![Alt Text](https://github.com/A-Sarkar18/TX-Solar/blob/main/figures/Texas%20Solar%20Facility%20Total%20Rated%20Capacity.png)
+![Alt Text](https://github.com/A-Sarkar18/EPA-AQI-TX/blob/main/figures/2023.png)
 
 ## Works Cited
 U.S. Environmental Protection Agency. "Air Data Home." U.S. Environmental Protection Agency, https://www.epa.gov/outdoor-air-quality-data. Accessed 17 May 2024.
