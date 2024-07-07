@@ -18,7 +18,7 @@ The U.S. EPA calculates the Air Quality Index for five major air pollutants know
 ![Alt Text](https://github.com/A-Sarkar18/EPA-AQI-TX/blob/main/figures/2023.png)
 
 ## Discussion
-Although, there does not seem to be much change over time, if we observe plots from 2014 thorugh 2023, we can see different counties average AQI change.
+Although, there does not seem to be much change over time, if we observe plots from 2014 thorugh 2023, we can see different counties' average AQI change over the decade.
 
 ## Works Cited
 U.S. Environmental Protection Agency. "Air Data Home." U.S. Environmental Protection Agency, https://www.epa.gov/outdoor-air-quality-data. Accessed 17 May 2024.
